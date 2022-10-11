@@ -1,0 +1,23 @@
+
+html{
+    color: darkblue;
+    
+}
+.profile{
+    display: inline-flex;
+    width: 100%;
+}
+
+.profile.name{
+    margin: 20px;
+    width: calc(100% / 2);
+    font-size: 100px ;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    width: calc(100% / 3);
+}
+.ava{
+    margin:20px;
+}

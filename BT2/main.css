@@ -1,0 +1,30 @@
+html{
+    color: darkblue;
+}
+h1{
+    color: darkblue;
+    
+}
+#hello { 
+    font-style: italic;
+    font-size: medium;
+
+}
+.profile{
+    display: inline-flex;
+    width: 100%;
+}
+
+.profile .name{
+    margin: 20px;
+    width: calc(100% / 2);
+    font-size: 20px ;
+    color:blue;
+    
+}
+.profile.ava{
+    padding: 30x;
+    margin: 20px;
+
+
+}
