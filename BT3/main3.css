@@ -1,0 +1,16 @@
+h1
+{
+    color: darkblue;
+    padding-left: 30px;
+   
+}
+html{
+    color:#d9d3d3;
+    
+}
+#bod{
+    border: 1px solid #dddddd;
+    padding-left: 20px;
+    background-color: rgb(184, 181, 181)
+    ;
+}
